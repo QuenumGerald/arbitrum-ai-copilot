@@ -51,9 +51,10 @@
 
 ### 4. Submission on HackQuest
 - [ ] Fill project details (title, description, team, tech stack)
-- [ ] Paste video URL
-- [ ] Link to GitHub repo (already created)
-- [ ] Submit before 22 fév 16h59 UTC
+  - Mention existing traction: "Alkimo.app already has paying customers – this is an extension for DeFi on Arbitrum"
+- Paste video URL
+- Link to GitHub repo (already created)
+- Submit before 22 fév 16h59 UTC
 
 ---
 
